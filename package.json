@@ -1,0 +1,28 @@
+{
+  "name": "be-valid",
+  "version": "0.1.0",
+  "description": "Object validator for javascript",
+  "main": "lib/be-valid.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmarcus87/be-valid.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "t.marcus87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmarcus87/be-valid/issues"
+  },
+  "homepage": "https://github.com/tmarcus87/be-valid",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0"
+  }
+}

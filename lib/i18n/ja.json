@@ -1,0 +1,13 @@
+{
+	"error_required": "%name%は必須項目です",
+	"error_not_a_number": "%name%は数字ではありません",
+	"error_not_a_strict_number": "%name%は厳密な数字ではありません",
+	"error_not_a_string": "%name%は文字列ではありません",
+	"error_not_a_array": "%name%は配列ではありません",
+	"error_not_a_object": "%name%はObjectではありません",
+	"error_no_length_property": "%name%にlengthプロパティが存在しません",
+	"error_length_too_short": "%name%の要素数が少なすぎます(最小:%args[0]%)",
+	"error_length_too_long": "%name%の要素数が多すぎます(最大:%args[0])",
+	"error_value_too_less": "%name%の値が小さすぎます(最小:%args[0]%)",
+	"error_value_too_great": "%name%の値が大きすぎます(最大:%args[0]%)"
+}

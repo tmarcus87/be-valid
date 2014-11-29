@@ -1,0 +1,13 @@
+{
+	"error_required": "%name% is required.",
+	"error_not_a_number": "%name% is not a number.",
+	"error_not_a_strict_number": "%name% is not a strict number.",
+	"error_not_a_string": "%name% is not a string.",
+	"error_not_a_array": "%name% is not a array.",
+	"error_not_a_object": "%name% is not a object.",
+	"error_no_length_property": "Invalid data type for %name%.",
+	"error_length_too_short": "Length of %name% is less than %args[0]%.",
+	"error_length_too_long": "Length of %name% is greater than %args[0]%.",
+	"error_value_too_less": "Value of %name% is less than %args[0]%.",
+	"error_value_too_great": "Value of %name% is greater than %args[0]%."
+}

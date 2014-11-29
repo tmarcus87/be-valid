@@ -1,0 +1,22 @@
+{
+    "strict": true,
+    "indent": 4,
+    "maxlen": 134,
+    "unused": true,
+    "curly": true,
+    "node": true,
+
+    "globalstrict": true,
+    "laxbreak": true,
+
+    "globals": {
+        "__rootdir": false,
+
+        "describe": false,
+        "it": false,
+        "before": true,
+        "after": true,
+        "beforeEach": true,
+        "afterEach": true
+    }
+}
